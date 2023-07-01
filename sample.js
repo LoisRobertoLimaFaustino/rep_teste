@@ -1,1 +1,1 @@
-console.log("Hello World!  mother fucker")
+console.log("Hello World!")
